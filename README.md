@@ -1,6 +1,6 @@
 ### Greetings internet traveler 👋
 
-Below are some things I am working on
+Below are some things I am working on, playing with, and researching.
 
 - 💻 I’m currently studying for my AWS Associate Developer, and AWS Associate Solutions Architect Certifications.
 - 👨‍🌾 I’m currently gardening on about ~250 square feet of fruits, vegetables, flowers, fruit trees, and learning how to grow food for people, and bees.
