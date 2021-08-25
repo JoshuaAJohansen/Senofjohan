@@ -1,4 +1,4 @@
-### Greetings internet traveller 👋
+### Greetings internet traveler 👋
 
 Below are some things I am working on
 
